@@ -6,7 +6,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-class Scraper: 
+class Scraper:
     """
         Scraper class to fetch data from a given url using async httpx client
 
